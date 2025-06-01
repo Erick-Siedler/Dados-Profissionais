@@ -1,0 +1,1 @@
+Este é meu currículo em formato de HTML, para melhor visualização das funções implementadas recomendo que usem um computador para abrir o arquivo, mas se for aberto em um celular é possivel ver os conteúdos de forma clara.
